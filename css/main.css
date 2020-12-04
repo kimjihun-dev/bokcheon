@@ -191,6 +191,8 @@ img {vertical-align: middle;}
     .online { margin-top: 100px; }
     /* sns */
     .sns { margin-top: 100px; }
+    /* footer */
+    #footer { margin-top: 100px; }
 }
 
 /* 태블릿이상 전용 */

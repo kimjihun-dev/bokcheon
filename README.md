@@ -6,3 +6,6 @@
 
 demo site: 
 
+<img src="https://github.com/kimjihun-dev/bokcheon/blob/master/mainDesign.jpg" width="80%">
+
+
